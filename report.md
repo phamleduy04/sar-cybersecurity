@@ -16,8 +16,8 @@ Of the findings discovered during our assessment, 5 were considered High risks, 
 - Total: 11 risks
 
 ## Type of tools used
-Developer Tools (Intergrated on most web broswer)
-Burp Suite Community Edition
+- Developer Tools (Intergrated on most web broswer)
+- Burp Suite Community Edition
 
 ## Potential Threats and Impact
 | Threat Origination Category      | Type Identifier |
