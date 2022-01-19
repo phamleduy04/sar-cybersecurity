@@ -11,7 +11,9 @@
 </ol>
 
 ## Summary of findings
-Of the findings discovered during our assessment, 0 were considered High risks, 2 Moderate risks, 0 Low, and 0 Informational risks. The risks found during the assessment are broken down as shown on the graph in Figure 2.
+Of the findings discovered during our assessment, 5 were considered High risks, 4 Moderate risks, 2 Low risks. 
+
+- Total: 11 risks
 
 ## Type of tools used
 Developer Tools (Intergrated on most web broswer)
